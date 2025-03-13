@@ -11,3 +11,4 @@ Get started with Solara Executor in just a few simple steps:
 **Keywords:** Roblox executor, script execution tool, modding software, gaming utilities, script engine, performance optimization, advanced scripting 2024.
 
 ![Solara Executor Preview](/assets/Solara.gif)
+
